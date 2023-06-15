@@ -1,0 +1,69 @@
+.starting_heading {
+    font-size: 65px;
+    color: rgba(227, 20, 203, 0.539);
+
+    text-align: center;
+
+    border: 10px solid pink;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+.why {
+    background-color: rgba(209, 32, 241, 0.171);
+
+    border: 10px solid pink;
+    border-radius: 30px;
+
+    text-align: center;
+
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.imageforfour {
+    height: 300px;
+    width: 250px;
+}
+
+.imageforikigai {
+    height: 290px;
+    width: 250px;
+}
+
+.a1 {
+    background-color: lightblue;
+    border: 10px solid pink;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.a2 {
+    background-color: rgba(255, 166, 0, 0.459);
+    border: 10px solid pink;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.a3 {
+    border: 10px solid pink;
+    border-radius: 30px;
+    border-left: 1px;
+    border-right: 1px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.a3.tc{
+    background-color: rgba(192, 192, 192, 0.573);
+}
+
+.meaning{
+    border: 10px solid rgba(255, 0, 0, 0.324); border-radius: 30px;
+    height: 250px;
+    width: 500x;
+    margin: 7px;
+    padding: 10px;
+}
